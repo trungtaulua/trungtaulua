@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nguyen Duc Trung aka TrungTauLua</h1>
-<h3 align="center">a film editor from Vietnam who is starting to learn programming</h3>
+<h1 align="center">Hi 👋, I'm Nguyen Duc Trung</h1>
+<h1 align="center">aka TrungTauLua</h1>
+<h3 align="center">A film editor from Vietnam who is starting to learn programming</h3>
 
 - 🌱 I’m currently learning **C/C++, Go, Lua, Python, Unreal Engine**
 
